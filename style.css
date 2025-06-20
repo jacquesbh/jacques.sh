@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Roboto Mono', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+    background-color: #ffffff;
+    color: #333333;
+    line-height: 1.6;
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.skip-link {
+    position: absolute;
+    top: -40px;
+    left: 6px;
+    background: #333;
+    color: #fff;
+    padding: 8px;
+    text-decoration: none;
+    z-index: 1000;
+}
+
+.skip-link:focus {
+    top: 6px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.intro {
+    margin-bottom: 60px;
+    text-align: left;
+}
+
+.intro h1 {
+    font-size: 42px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+}
+
+.title {
+    font-size: 18px;
+    color: #666666;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.description {
+    font-size: 16px;
+    color: #333333;
+    line-height: 1.5;
+}
+
+.experience {
+    margin-bottom: 60px;
+}
+
+.experience h2 {
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.experience ul {
+    list-style: none;
+}
+
+.experience li {
+    font-size: 16px;
+    color: #333333;
+    margin-bottom: 8px;
+    padding-left: 16px;
+    position: relative;
+}
+
+.experience li:before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: #666666;
+}
+
+.contact h2 {
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.contact-button {
+    display: inline-block;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border: 2px solid #000000;
+    transition: all 0.3s ease;
+}
+
+.contact-button:hover,
+.contact-button:focus {
+    background-color: #ffffff;
+    color: #000000;
+    outline: 2px solid #000000;
+    outline-offset: 2px;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 20px 15px;
+    }
+    
+    .intro h1 {
+        font-size: 32px;
+    }
+    
+    .title {
+        font-size: 16px;
+    }
+    
+    .description,
+    .experience li,
+    .contact-link {
+        font-size: 15px;
+    }
+    
+    .experience h2,
+    .contact h2 {
+        font-size: 18px;
+    }
+}
