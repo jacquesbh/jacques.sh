@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jacquesbh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jacques.sh
+  * I am jacquesbh (https://keybase.io/jacquesbh) on keybase.
+  * I have a public key with fingerprint DEB8 A04A 7CB9 5FD7 57E8  B1A0 5B80 3023 D40A 0F67
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f1f4c7713a88492ada7743b1e3e992bd07da387f1970f716c8f1f5c30bdd051a0a",
+            "fingerprint": "deb8a04a7cb95fd757e8b1a05b803023d40a0f67",
+            "host": "keybase.io",
+            "key_id": "5b803023d40a0f67",
+            "kid": "0101f1f4c7713a88492ada7743b1e3e992bd07da387f1970f716c8f1f5c30bdd051a0a",
+            "uid": "ac68450423a59124e4ef2ce07a0ec319",
+            "username": "jacquesbh"
+        },
+        "service": {
+            "hostname": "jacques.sh",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460030787,
+    "expire_in": 157680000,
+    "prev": "c8777f694073ecf261b4a444a8d9ec6b7ae1f7bcc50049d2848d1198b504eaf7",
+    "seqno": 28,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIoAnicrZJbSBRRGMd389Km2QUhkbzgQFQkcmbmzJ6ZpQKxxEgjIrpRLOecOaOj
+2+62M7qJSKWRvpgbVFbeoiIqerDU0MxMqSDLiHow6qGiMiykIJKCqM5IPQQ9dl4O
+5+P3/5//9/HdTolzJbnHcncVDR/48MZ9f/h4pWtrYklBjUBCerXgqxEq2MzFAjqz
+bH+FqQs+AYhANEQDUoREGasq1CSsY4SgTEQmM02TiA6QjmUVGaKGgIFEL1W5QqEy
+ILoOFBEDLOQKhhksZZFwxAza3FZnRMUAYkSJphg6UhBTCScVogIZSLIOAQaGF3Fh
+WchyFDwcwRbLM0O8xh/+mXj/4P9z7soZO0y9KlQAlGSsaKIEGWSGRBlAGDAqi5oD
+WiwSxLsZp8sx3VPJLFIm1OYKvFxlUuZM1mnlbyTPKuPScCRkh2gowOtlth32OTK7
+OuxwUUb8vx38xAzqfIpcUMUilhkKCj6Rk9Q2HUsRegGfBVJRrsD2hs0I85sOoSCv
+CvhxvmFV3JKqCCHDq0GAZEYNySsSiCGEWNU1Rr0EYSYaiFCqAAA1XVKhqouiphLe
+P8OGM2OL7QmGBJ+k8py4lHtaZmkQ25URJtSO3NoZ73InuRITZjnr5Uqas+DP0r0N
+eFztKSV1nsJlmeuLyPKVQbevr+GlEZleZz4Zv5KacftVSmdDrav8fdfPn8n9WxqX
+fTo2MBltWpXumXy24mltYn7+dW3byKVG10A07WJ221T3ovSrzVJ0eqxjSdeNu6s9
+fYMti2Pjo717cz5eXj+9fTRt37X6dy9mHyrvbR0ABR/G7FhO14Wb4H4n/XYn/vza
+E6nJHfVHtaXtO6bqzx0+2HC37dGmhT+KT83P/toy13J/KQywrSfPQFARu9jc2bPx
+bNpI6oash8+HJuTu1njb0zFv21TG55Ij6YHx2KPvTW8Hpd6h4gc9Le2x4+9el56u
+2r85KyFhIrM/L/q4jsTdk/vW2I3tvwC+Gj9F
+=GCLw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jacquesbh
+
+==================================================================
